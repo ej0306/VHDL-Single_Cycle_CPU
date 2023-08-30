@@ -14,16 +14,7 @@ Simulation Steps
 
     Add Components to the Project:
 
-    Within the ModelSim project, add the following VHDL files as design units:
-        CorcueraALU.vhd
-        CorcueraAlU_Control.vhd
-        Corcuera_ControlUnit.vhd
-        Corcuera_CPU.vhd
-        Corcuera_DataMemory.vhd
-        Corcuera_InsMemory.vhd
-        Corcuera_Mux2x1.vhd
-        Corcuera_RegFile.vhd
-        Corcuera_CPUtb.vhd
+    Within the ModelSim project, add the VHDL files as design units
 
     Compile VHDL Files:
 
