@@ -4,16 +4,7 @@ This guide provides step-by-step instructions on how to simulate a collection of
 Prerequisites
 
     ModelSim software installed on your computer.
-    The VHDL design files for the CPU system, including:
-        CorcueraALU.vhd
-        CorcueraAlU_Control.vhd
-        Corcuera_ControlUnit.vhd
-        Corcuera_CPU.vhd
-        Corcuera_DataMemory.vhd
-        Corcuera_InsMemory.vhd
-        Corcuera_Mux2x1.vhd
-        Corcuera_RegFile.vhd
-        Corcuera_CPUtb.vhd
+    The VHDL design files for the CPU system.
 
 Simulation Steps
 
